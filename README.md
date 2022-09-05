@@ -3,4 +3,5 @@ This is the second project of the semester where we will be focusing on the deve
 ## Project Description
 ## Project Progress
 ## Access 
+## Usage and Endpoints Explained 
 ## References
