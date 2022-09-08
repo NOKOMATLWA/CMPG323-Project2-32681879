@@ -37,5 +37,5 @@ JWT Authentication will create a token that will last for a minimum of 1 hour to
 - POST: Creates a resource
 - PUT: Updates or creates within an existing resource
 - PATCH: Partially modifies an existing resource
-- DELETE: Removes the resource
-
+- DELETE: Removes the resourc
+This allows the user to be able to add,delete,read or update in the following tables(Category,Zone and Device).You are able to use the link generated and use it to further access the information.
