@@ -29,17 +29,13 @@ IoT device data for my project.Before kickstarting the project,i had to ensure t
 - [x] Project Close-out
 - [x] Updating README files for both existing Repos
 ## Access 
+- With the authorization in place,the user would have to register their credentials through the register model so that they can be able to run the endpoints.
+JWT Authentication will create a token that will last for a minimum of 1 hour to allow access.
 ## Usage and Endpoints Explained 
--There are 5 endpoints that are implemented and the user will be able to interact with when running the API and that includes the Category.Device,Zone,Login.Register
-## References
-- [Web API Method](https://www.tutorialsteacher.com/webapi/implement-get-method-in-web-api)
-- (https://www.youtube.com/watch?v=Pz1IcBjOxj8)
-- [Efundi guide](https://efundi.nwu.ac.za/access/content/group/b4bd0272-e3c3-4151-b9ce-3888cdadc374/Training/ASP.NET%20Core%20security%20guidance%2025%20August.docx)
-- [Using .gitignore in API](https://stackoverflow.com/questions/39289765/whats-the-common-practice-of-gitignore-for-aspnet-core-project)
-- [Migrations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/)
-- [Training](https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/)
-- [Swagger](https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1)
-- [dotnet ef command](https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx)
-- [Endpoints](https://idratherbewriting.com/learnapidoc/docapis_resource_endpoints.html)
-- [Extra Swagger Help](https://swagger.io/resources/articles/documenting-apis-with-swagger/)
+-There are 5 endpoints that are implemented and the user will be able to interact with when running the API and that includes the Category.Device,Zone,Login.Register and they will have the following operations where :
+- GET: Retrieves a resource
+- POST: Creates a resource
+- PUT: Updates or creates within an existing resource
+- PATCH: Partially modifies an existing resource
+- DELETE: Removes the resource
 
