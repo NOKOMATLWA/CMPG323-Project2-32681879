@@ -39,3 +39,40 @@ JWT Authentication will create a token that will last for a minimum of 1 hour to
 - PATCH: Partially modifies an existing resource
 - DELETE: Removes the resourc
 This allows the user to be able to add,delete,read or update in the following tables(Category,Zone and Device).You are able to use the link generated and use it to further access the information.
+
+•	https://www.tutorialsteacher.com/webapi/implement-get-method-in-web-api
+
+•	https://www.youtube.com/watch?v=Pz1IcBjOxj
+
+•	https://efundi.nwu.ac.za/access/content/group/b4bd0272-e3c3-4151-b9ce-3888cdadc374/Training/ASP.NET%20Core%20security%20guidance%2025%20August.docx
+
+•	https://stackoverflow.com/questions/39289765/whats-the-common-practice-of-gitignore-for-aspnet-core-project
+
+•	https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/
+
+•	https://www.youtube.com/watch?v=m9QbTIPxiok
+
+•	https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
+
+•	https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1
+
+•	https://www.entityframeworktutorial.net/efcore/create-model-for-existing-database-in-ef-core.aspx
+
+•	https://idratherbewriting.com/learnapidoc/docapis_resource_endpoints.html
+
+•	https://swagger.io/resources/articles/documenting-apis-with-swagger/
+
+•	https://www.youtube.com/watch?v=ITxFe9sQTDo
+
+•	https://www.youtube.com/watch?v=SMWeJqMddKE
+
+•	https://jwt.io/introduction
+
+•	https://www.techtarget.com/searchapparchitecture/definition/Swagger
+
+•	https://rapidapi.com/blog/api-glossary/endpoint/
+
+•	https://www.youtube.com/watch?v=3xL4dOxGJXo
+
+
+# I had an error submiting the file
